@@ -51,6 +51,14 @@ Preguntas del caso de estudio.
 
 >3-13 ¿Qué rol desempeña la tecnologia de la información en cada uno de esos negocios?
 
+    La tecnologia en este caso juega un papel muy importando ya que atravez de la información y datos que recolectan ellos puedan venir y trasformar esta y sacar ventaja sobre su competidor, Walmart por toda los estudios de mercado y atravez de sus ventas el poder analizar como esta el mercado, comprando empresas que se dedican a la actualizacion de estos servicios tecnologicos. Y en el caso de Amazon pues atravez de las ventas en su pagina, vistas en esta puede trasformar esa informacion y poder analizar que productos estan en auge y cuales son los que se necesitaria una renovación, segun la lectura podemos notar que las 2 son grandes empresas, excelentes cada una en el ambito que se maneja sin embargo lo que sera determinante es el ambiente que nos rodea, la sociedad y el avance, que va demasiado rápido y que te obliga a aceptar el cambio o a morir y quedarte desactualizado u obsoleto.
+
 >>¿Cómo les ayuda a refinar sus estrategias de negocios?
 
+    Con la información recolectada las 2 empreas pueden reconstruir su estrategia de negocio en base a lo que segun estadisticas realizadas por empresas expertas en este ámbito, les ayuda a determinar en que productos pueden centrar mas su atención para mantenerlos disponibles siempre y a la mano al cliente ya que al no tenerlo se puede correr el riesgo de la perdida de clientes, cosa que en la actualidad no se puede dar el lujo cualquier empresa, mas bien una de las ventajas que se notan es la atención al cliente que tiene implementada Amazon. La cual pueda que como es 24 hrs. venga a reforzar la confianza y lealtad de sus clientes sobre las empresas rivales que no cuentan con esta clase de servicios. 
+
+
+
 >3-14 ¿Tendrá éxtio Walmart contra Amazon.com? Explique su respuesta.
+
+    No lo creo, ya que segun veo Amazon.com ya es experto en su ambito. Mucho podra ser el esfuerzo que esta realizando Walmart para sobresalir e imponerse ante Amazon que si le servira sera para que no sea aplastada por Amazon, ya que asi como Walmart tiene la confianza de sus clientes en las tiendas fisicas, asi de bien estable esta Amazon en lo que es el e-commerce. Una de las ventajas que podria verse seria el del manejo de las entregas la agilidad con la que el usuario final puede recibir su produto, pero con la estrategia de abrir mas almacenes y el mejor manejo de tracking route que realiza Amazon es un campo que se ve que esta fortaleciendo. Por lo que llego a la conclucion de que no es probable que lo venza sino que logre tan solo mantenerse a flote en lo que se refiere a e-commerce.
