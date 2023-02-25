@@ -1,7 +1,9 @@
-##### Integrantes:  1. Kevin Gustavo Cruz 7690-10-144 | Francisco Back 7690-18-6402
-####
+| Integrantes: | Kevin G. Cruz |7690-10-144 |  |
+|--:|---------|:--:|:----|
+|| Francisco E. Back  |  7690-18-6402 |
+|  |    |       |
 # NIKE SE CONVIERTE EN UNA EMPRESA TECNOLOGICA
-### Caso de estudio 1:
+## Caso de estudio 1:
 
 Preguntas del caso de estudio.
 
@@ -28,3 +30,23 @@ Preguntas del caso de estudio.
 >4. ¿Qué tanta ventaja tiene Nike, sobre sus competidores?
     
     En ese momento si contaba con ventaja, por los servicios que prestaba  y la interacciones con sus productos. Pero en la actualidad ya existen varios competidores los cuales igualaron a Nike en la creacion de relojes inteligente brindado plataformas y sistemas operativos propios sin necesidad de un tercero. En la actualidad los datos recopilados por estas empresas son enfocados para marketing digital.
+
+
+# ¿Quién es el mejor vendedor minorista del mundo? Walmart y Amazon lo resuleven.
+
+## Caso de estudios 2:
+
+Preguntas del caso de estudio.
+
+>3-11 Analice a Walmart y Amazon.com usando los modelos de fuerzas competitivas y la cadena de valor.
+
+
+
+>3-12 Compare los modelos de negocios y las estrategias de negocios de Walmart y Amazon.
+
+
+>3-13 ¿Qué rol desempeña la tecnologia de la información en cada uno de esos negocios?
+
+>>¿Cómo les ayuda a refinar sus estrategias de negocios?
+
+>3-14 ¿Tendrá éxtio Walmart contra Amazon.com? Explique su respuesta.
