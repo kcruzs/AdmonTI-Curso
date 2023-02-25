@@ -39,11 +39,15 @@ Preguntas del caso de estudio.
 Preguntas del caso de estudio.
 
 >3-11 Analice a Walmart y Amazon.com usando los modelos de fuerzas competitivas y la cadena de valor.
-
+    
+    Segun lo visto en la lectura podemos validar que las 2 empresas son grandes, una de manera fisica como lo es Walmart y la otra aprovechando la era tecnologica que es Amazon. Cada una se desempeña de una gran manera en su ambito sin embargo al ser de un mayor auge la tecnologia esta sobrepasando y adquiriendo los clientes de muchos años de Walmart ya que en base al avance que se ha dado, cualquiera tiene acceso a internet ya sea en su computadora o bien en su celular incluso. Y con las restricciones que se tuvieron hace algunos años nos pudimos dar cuenta que los mercados y comercios no podian seguir de manera tradicional. Por esa razón y aprovechando una de las ventajas que tiene Walmart sobre Amazon que es la cercania y la confianza, decide trasformar su forma de comercio a mas tecnologico por lo que veo que posiblemente Walmart no vaya a vencer a Amazon, pero pueda que logre sobre llevar esta lucha comercial. 
 
 
 >3-12 Compare los modelos de negocios y las estrategias de negocios de Walmart y Amazon.
 
+    Por un lado tenemos el modelo de negocio tradicional de Walmart que  es por medio de tiendas fisicas que estan cerca de sus clientes, y que tienen una mejor distribucion y logistica ya que el producto lo tienen mas a la mano del consumidor, la gran variedad de productos de la canasta basica que hacen que sea mas requerido a nivel hogar o en los hogares.
+    Y por el otro lado tenemos a Amazon que con su inovacion de ofrecer productos tecnologicos a mejor precio, van dia con dia agrandando su almacen a productos mas de consumo diario que hace que poco a poco sea mas requerido, manejando y controlando la confiabilidad de ser mas agil por su estado de multiplataforma, que el comprar sea mas fácil y practico para el cliente.
+ 
 
 >3-13 ¿Qué rol desempeña la tecnologia de la información en cada uno de esos negocios?
 
